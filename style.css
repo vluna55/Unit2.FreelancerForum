@@ -1,0 +1,16 @@
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+}
+li {
+    border: solid 1px; color: black;
+    margin: 1rem;
+}
+
+.freelancers {
+    border-radius: 50%;
+}
+#average{
+    border: solid 1px; color: black;
+}
